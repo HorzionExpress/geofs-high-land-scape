@@ -1,5 +1,5 @@
 # geofs-high-land-scape
-Are you playing geofs? if you don`t want to by HD this plug-in‌ would be great for you  !  (this is one hundred percent legal)
+Are you playing geofs? if you don`t want to buy HD this plug-in‌ would be great for you  !  (this is one hundred percent legal)
 
 Hey GeoFS pilots! ✈️ Quick disclaimer first — I did NOT write this awesome script, all credit goes to the talented Chinese flight simmer @不宅的飞友 on Bilibili! I'm just mirroring/hosting it here because it's way too good not to share with everyone, with the original author's permission. 🫡
 
